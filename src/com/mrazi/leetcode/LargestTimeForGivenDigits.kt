@@ -17,6 +17,7 @@ fun largestTimeFromDigits(arr: IntArray): String {
                                 .append(arr[thirdIndex])
                                 .append(arr[fourthIndex])
                                 .toString()
+                            
                         }
                     }
                 }
